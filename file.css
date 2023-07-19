@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-width: 500px;
+}
+
+input{
+    width: 100%;
+    padding: 10px ;
+    box-sizing: border-box;
+    border: 1px solid rgb(17, 48, 126);
+}
+
+button{
+       background: #1cae2d;
+       font-weight: bold;
+       padding: 10px;
+       color: whitesmoke;
+       padding: 10px 20px 10px 20px;
+       border:1px solid plum;
+       margin-top: 4px;
+
+}
+
+#delete-button{
+    background-color: rgb(193, 237, 211);
+    font-weight: bold;
+    color: #0c6d17;
+}
+/* style the extension*/
+ul{
+    margin-top: 20px;
+list-style: none;
+padding-left: 0;
+
+}
+
+li{
+   margin-top: 5px;
+
+}
+
+li a{
+  color: rgb(31, 153, 31);
+}
